@@ -1,2 +1,2 @@
 # Introduction
-My name is Alan and Welcome to my GitHub!! I am an Electrical Engineering student who loves to tinker with different types of Embedded Systems, such as Raspberry Pi and ATMEGA16A. Currently, I am exploring new concepts like Machine Learning to Image Processing as a hobby. 
+My name is Alan and Welcome to my GitHub!! I am a Tinkerer for Embedded Devices that can be used to explore the current phenomena of "Internet of Things" and potentially for usage in AI/ML. 
